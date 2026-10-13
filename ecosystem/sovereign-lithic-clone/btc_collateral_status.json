@@ -1,0 +1,12 @@
+{
+    "status": "COLLATERAL_MONITORING_ACTIVE",
+    "entity": "4MIDABLE CURRCEES LLC",
+    "address": "bc1qhfvgx5788m2vq2x5j02kezzk0t3ug3mcar2cgtrldt0a2wh736n6qgvra6",
+    "requiredBtc": 2.6509,
+    "confirmedBtc": 0.0,
+    "unconfirmedBtc": 0.0,
+    "totalDetectedBtc": 0.0,
+    "percentFunded": 0.0,
+    "isFullyFunded": false,
+    "timestamp": "2026-10-13T08:29:10Z"
+}
